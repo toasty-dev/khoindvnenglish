@@ -10,27 +10,6 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://y5orj5gvbz.cloudflare-gateway.com/dns-query</string>
-			</dict>
-			<key>PayloadDisplayName</key>
-			<string>DNS Antirevoke + AD Block</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.9d981129-d086-4891-b2cf-165ede3f8a90</string>
-			<key>PayloadOrganization</key>
-			<string>khơindvn</string>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadUUID</key>
-			<string>0085f63c-ab6d-45ae-9f87-8e0cef7335d4</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerURL</key>
 				<string>https://m388zwt366.cloudflare-gateway.com/dns-query</string>
 			</dict>
 			<key>PayloadDisplayName</key>
@@ -76,9 +55,9 @@
 
 - Updated to work with iOS again.
 
-- Allows for AD blocking.
+- Blocks iOS certificate revoking
 
-- Allows for customization.
+- Prevents Blacklist
 </string>
 	<key>PayloadDisplayName</key>
 	<string>DNS AntiRevoke Khoindvn</string>
