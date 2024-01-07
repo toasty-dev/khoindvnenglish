@@ -34,7 +34,7 @@
 				<string>https://m388zwt366.cloudflare-gateway.com/dns-query</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>DNS AntiRevoke + AD Block</string>
+			<string>DNS AntiRevoke</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.fac89862-8acc-466a-a412-81fdc856dae2</string>
 			<key>PayloadOrganization</key>
